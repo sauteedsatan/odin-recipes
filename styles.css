@@ -1,4 +1,4 @@
-.title {
+h1, h3 {
     text-align: center;
     color: rgb(253, 102, 47);
     font-family: Verdana, "Times New Roman", serif;
@@ -9,7 +9,7 @@
     color: rgb(255, 145, 106);
 }
 
-.recipe-subtitle {
+h2 {
     text-align: center;
     font-size: 25px;
     color:rgb(28, 104, 78);
